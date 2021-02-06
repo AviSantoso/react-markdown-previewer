@@ -19,7 +19,7 @@ const useStyles = makeStyles((theme) => ({
     width: "100%"
   },
   editor: {
-    width: "100%"
+    width: "95%"
   }
 }));
 
